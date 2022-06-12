@@ -11,90 +11,72 @@ Simple script to change color-schemes and fonts for [Termux](https://termux.com)
 
 ### Como instalar
 
-Follow the steps below - 
+Siga os passos abaixo -
 
 ```bash
-# go to home dir - 
+# ir a home do terminal - 
 cd $HOME
 
-# clone this repository - 
+# clone  este repositório - 
 git clone https://github.com/adi1090x/termux-style
 
-# change to termux-style dir -
+# obterá a pasta do repositório -
 cd termux-style
 
-# to install it, run -
+# para instala o repositório -
 ./install
 
 # And Follow the steps, it'll be installed on your system.
 ```
 
-### Run
+### ver estilos de cor fonte etc..
 
-Run `termux-style` & select the right option -
+digite `bash venom-estilo.sh ` -
 
 ```bash
-$ termux-style
+$ termux-estilo
 
-    ┌──────────────────────────────────────────────────┐
-    │░▀█▀░█▀▀░█▀▄░█▄█░█░█░█░█░░░░░█▀▀░▀█▀░█░█░█░░░█▀▀░░│
-    │░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░▄▄▄░▀▀█░░█░░░█░░█░░░█▀▀░░│
-    │░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░░░▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░│
-    └──────────────────────────────────────────────────┘
-    [*] By- Aditya Shakya // adi1090x
+    <a href="https://ibb.co/KLBwzrh"><img src="https://i.ibb.co/Jy8QFst/20220612-145852.jpg" alt="20220612-145852" border="0"></a>
+    [*] By-  Venom Mods // ofc
 
-    [C] Colors (89)
-    [F] Fonts (20)
-    [R] Random
-    [I] Import
+    [C] Cor (89)
+    [F] Fontes (20)
+    [R] Aleatório
+    [I]  importar
     [A] About
-    [Q] Quit
+    [Q] sair
     
-    [Select Option]: 
+    [Selecions a opção]: 
 ```
 
-### Features
+### características
 
-+ 90 popular color-schemes.
-+ 20 powerline patched fonts.
-+ Randomly change color-schemes.
-+ Import color-schemes from *local file* or *file URL*.
-+ Set colors and fonts in place.
++ 90 esquemas de cores populares.
++ 20 fontes corrigidas powerline.
++ Altere aleatoriamente os esquemas de cores.
++ Importe esquemas de cores do arquivo local ou URL do arquivo .
++ Defina cores e fontes no lugar.
 
-### Use Import
+### Como importar
 ```bash
-    [Select Option]: 4
+    [Selecione a opção ]: 4
 
-    [1] Local File (Enter path to file)
-    [2] Internet File (Enter File URL)
+    [1] Local do Arquivo (Enter com o arquivo)
+    [2] Internet e os arquivos (Enter com URL)
 
-    [Select Option]: 2
+    [Selecione a opção ]: 2
 
-    [Enter Color-scheme URL]: https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties
+    [Enter cor e temas com  URL]: https://raw.githubusercontent.com/Venom-1k/termux-estilo/master/colors/gruvbox-dark.properties
 
-    [*] Reloading Settings...
-    [*] Applied Successfully.
+    [*] Aplicando configurações...
+    [*] Aplicado com sucesso. 
 ```
 
-+ To import *local file*, enter the full path (e.g. - `/data/data/com.termux/files/home/spiderman.properties`) of the color-scheme.
-+ To import *web file*, enter the file url (e.g. - `https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties`) of the color-scheme.
++ Para importar o arquivo local , digite o caminho completo (por exemplo-  (e.g. - `/data/data/com.termux/files/home/spiderman.properties`) e esquemas de cor
++ Para importar o arquivo da web , digite a url do arquivo (por exemplo -(e.g. - `https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties`) e esquemas de co
 <br />
 
-### Previews
-
-|Colorschemes|Fonts|
-|--|--|
-|![img](images/colors.gif)|![img](images/fonts.gif)|
-
-|Import - URL|Import - Local|
-|--|--|
-|![img](images/url.gif)|![img](images/local.gif)|
-
-|Install|Uninstall|
-|--|--|
-|![img](images/install.gif)|![img](images/uninstall.png)|
-
 ### FYI
-- An `uninstall` script is also added, in case you want to remove this program.
-- Again... If you can improve it, sure...
-- Have fun!
+- Um `bash deleta.sh` também é adicionado, caso você queira remover esta script do termux.
+- Venom agradeçe seu uso...
+- Divirta-se!
