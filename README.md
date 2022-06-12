@@ -1,8 +1,6 @@
 <a href="https://ibb.co/F4XZCr1"><img src="https://i.ibb.co/v4hyRFW/20220612-145920.jpg" alt="20220612-145920" border="0"></a>
 
-# Termux Style
-
-Simple script to change color-schemes and fonts for [Termux](https://termux.com) terminal emulator.
+# Termux estilo 
 
 ![gif](images/main.gif) <br />
 
