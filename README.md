@@ -1,8 +1,4 @@
-<!-- Links -->
-[bmac]: https://www.buymeacoffee.com/adi1090x
-[ko-fi]: https://ko-fi.com/adi1090x
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
-[patreon]: https://www.patreon.com/adi1090x
+<a href="https://ibb.co/F4XZCr1"><img src="https://i.ibb.co/v4hyRFW/20220612-145920.jpg" alt="20220612-145920" border="0"></a>
 
 # Termux Style
 
