@@ -12,6 +12,12 @@
 Siga os passos abaixo -
 
 ```bash
+# atualiza ferramentas 
+apt update
+
+# instala git clone
+pkg install git
+
 # ir a home do terminal - 
 cd $HOME
 
