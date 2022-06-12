@@ -18,15 +18,15 @@ Siga os passos abaixo -
 cd $HOME
 
 # clone  este repositório - 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/Venom-1k/termux-estilo
 
 # obterá a pasta do repositório -
-cd termux-style
+cd termux-estilo
 
 # para instala o repositório -
-./install
+bash start.sh
 
-# And Follow the steps, it'll be installed on your system.
+# isso irá ajudá-lo instalr as ferramentas no terminal .
 ```
 
 ### ver estilos de cor fonte etc..
@@ -78,7 +78,7 @@ $ termux-estilo
 + Para importar o arquivo da web , digite a url do arquivo (por exemplo -(e.g. - `https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties`) e esquemas de co
 <br />
 
-### FYI
+### by venom
 - Um `bash deleta.sh` também é adicionado, caso você queira remover esta script do termux.
 - Venom agradeçe seu uso...
 - Divirta-se!
