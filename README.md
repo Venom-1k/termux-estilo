@@ -6,7 +6,8 @@ Simple script to change color-schemes and fonts for [Termux](https://termux.com)
 
 ![gif](images/main.gif) <br />
 
-> **`termux-style` provides color-schemes and powerline-ready fonts to customize the appearance of the Termux terminal.**
+> *Script simples para alterar esquemas de cores e fontes para o emulador de terminal Termux*
+
 
 ### Como instalar
 
