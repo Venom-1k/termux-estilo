@@ -33,11 +33,13 @@ cd termux-style
 
 digite `bash venom-estilo.sh ` -
 
+
+<a href="https://ibb.co/KLBwzrh"><img src="https://i.ibb.co/Jy8QFst/20220612-145852.jpg" alt="20220612-145852" border="0"></a>
+   
 ```bash
 $ termux-estilo
 
-    <a href="https://ibb.co/KLBwzrh"><img src="https://i.ibb.co/Jy8QFst/20220612-145852.jpg" alt="20220612-145852" border="0"></a>
-    [*] By-  Venom Mods // ofc
+     [*] By-  Venom Mods // ofc
 
     [C] Cor (89)
     [F] Fontes (20)
